@@ -1,16 +1,13 @@
 ### Hi there 👋
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
-  <h1 align="center"><b>Hello there, I'm Shady Troudi 👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm Chihab hajji 👋</b></h1>
 </p>
 <h4 align="center"><b>I'm a software engineering student at ESPRIT</b></h4>
 <p>
   <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
 </p>
 
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Sumanth-Talluri" />
-</p>
 
 <p align="center">
 <br>
@@ -24,14 +21,8 @@
 
 ###I'm an aspiring Tunisian  developer looking for the next challenge  👋 👋 👋😊
 
-- 🔭 I’m currently working on MEAN Stack Development:
-- 🌱 I’m currently learning MERN Stack Development.
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2021 Goals: Contribute to Open Source projects
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+- 🔭 I’m currently looking for an internship for my final year project
+
 
 <h3 align="center">Languages and Frameworks</h3>
 <br>
