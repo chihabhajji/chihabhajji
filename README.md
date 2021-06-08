@@ -4,7 +4,7 @@
 </p>
 <h4 align="center"><b>I'm a software engineering student at ESPRIT</b></h4>
 <p>
-  <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
+  <h4 align="center"><b>"Simplicity is the ultimate sophistication."</b></h4>
 </p>
 
 
