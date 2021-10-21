@@ -58,5 +58,5 @@ I'm an aspiring Tunisian  developer looking for the next challenge  👋 👋 �
 ## Feedback
 
 If you have any feedback, please reach out to us at chihab.hajji@esprit.tn
-<a href="mailto:chihabhajji@protonmail.com?subject=Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="mailto:chihab.hajji@esprit.tn?subject=github reference - "><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
