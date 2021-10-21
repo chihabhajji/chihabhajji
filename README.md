@@ -24,7 +24,7 @@ I'm an aspiring Tunisian  developer looking for the next challenge  👋 👋 �
 
 - 🔭 I’m currently looking for an internship for my final year project
 
-<p> If you're interested in my work, check out my organizations, my main profile is mainly used for testing </p>
+<p> If you're interested in my work, check out my organizations, my main profile is mainly used for testing and most of my internship repositories are private</p>
 
 <h3 align="center">Languages and Frameworks</h3>
 <br>
