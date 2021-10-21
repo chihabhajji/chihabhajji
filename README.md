@@ -18,10 +18,13 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-###I'm an aspiring Tunisian  developer looking for the next challenge  👋 👋 👋😊
+## 🚀 About Me
+
+I'm an aspiring Tunisian  developer looking for the next challenge  👋 👋 👋😊
 
 - 🔭 I’m currently looking for an internship for my final year project
 
+<h1> If you're interested in my work, check out my organizations, my main profile is mainly used for testing </h1>
 
 <h3 align="center">Languages and Frameworks</h3>
 <br>
@@ -50,4 +53,10 @@
   <a href="https://github.com/Shady7781">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chihabhajji&layout=compact&hide_border=true&show_icons=true&count_private=true" alt="Shady7781's github stats">
   </a>
+</p>
+
+## Feedback
+
+If you have any feedback, please reach out to us at chihab.hajji@esprit.tn
+<a href="mailto:chihabhajji@protonmail.com?subject=Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
