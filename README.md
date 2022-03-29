@@ -1,4 +1,3 @@
-[![I'm a 10x Dev](https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
   <h1 align="center"><b>Hello there, I'm Chihab hajji 👋</b></h1>
 </p>
@@ -6,7 +5,9 @@
 <p>
   <h4 align="center"><b>"The more I learn the less I know."</b></h4>
 </p>
-
+<p align="center">
+  [![I'm a 10x Dev](https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+</p>
 
 <p align="center">
 <br>
