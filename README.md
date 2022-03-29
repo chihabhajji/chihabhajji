@@ -6,7 +6,7 @@
   <h4 align="center"><b>"The more I learn the less I know."</b></h4>
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" alt="I'm a 10x DEV" /> 
+  <img src="https://i.gifer.com/bJk.gif" alt="I'm a 10x DEV" /> 
 </p>
 
 <p align="center">
