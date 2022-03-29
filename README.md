@@ -6,7 +6,7 @@
   <h4 align="center"><b>"The more I learn the less I know."</b></h4>
 </p>
 <p align="center">
-  <img src="https://i.gifer.com/bJk.gif" alt="I'm a 10x DEV" /> 
+  <div style="padding-top:56.200%;position:relative;"><iframe src="https://gifer.com/embed/bJk" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 </p>
 
 <p align="center">
