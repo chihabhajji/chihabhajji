@@ -23,8 +23,6 @@
 
 I'm an aspiring Tunisian  developer looking for the next challenge  👋 👋 👋😊
 
-- 🔭 I’m currently looking for an internship for my final year project
-
 <p> If you're interested in my work, check out my organizations, my main profile is mainly used for testing and most of my internship repositories are private</p>
 
 <h3 align="center">Languages and Frameworks</h3>
@@ -39,8 +37,7 @@ I'm an aspiring Tunisian  developer looking for the next challenge  👋 👋 �
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongo" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/> 
-
- </p>
+</p>
 
 <p align="center">
   <a href="https://github.com/chihabhajji">
@@ -51,10 +48,4 @@ I'm an aspiring Tunisian  developer looking for the next challenge  👋 👋 �
   <a href="https://github.com/chihabhajji">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chihabhajji&layout=compact&hide_border=true&show_icons=true&count_private=true" alt="Chihab hajj's github stats">
   </a>
-</p>
-
-## Feedback
-
-If you have any feedback, please reach out to us at chihab.hajji@esprit.tn
-<a href="mailto:chihab.hajji@esprit.tn?subject=github reference - "><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
