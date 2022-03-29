@@ -12,7 +12,7 @@
 <p align="center">
 <br>
   <a href="https://www.linkedin.com/in/chihab-hajji-929772138/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <img src="https://static-exp1.licdn.com/sc/h/akt4ae504epesldzj74dzred8" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:chihabhajji@protonmail.com?subject=Github -">
   <img src="https://mail.protonmail.com/assets/favicon-48x48.png" alt="Protonmail"/></a>&nbsp;
 </p>
