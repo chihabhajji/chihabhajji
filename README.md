@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/chihab-hajji-929772138/">
   <img src="https://static-exp1.licdn.com/sc/h/akt4ae504epesldzj74dzred8" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:chihabhajji@protonmail.com?subject=Github -">
-  <img src="https://mail.protonmail.com/assets/favicon-48x48.png" alt="Protonmail"/></a>&nbsp;
+  <img src="[https://mail.protonmail.com/assets/favicon-48x48.png](https://proton.me/static/39816156cea861bd9fac867c3a254186/proton-mail-full-logo.svg)" alt="Protonmail"/></a>&nbsp;
 </p>
 
 <br>
