@@ -44,14 +44,3 @@ I'm an aspiring Tunisian  developer looking for the next challenge  👋 👋 �
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/> 
 </p>
-
-<p align="center">
-  <a href="https://github.com/chihabhajji">
-    <img src="https://github-readme-stats.vercel.app/api?username=chihabhajji&count_private=true&hide_border=true&show_icons=true" alt="Chihab hajji's github stats">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/chihabhajji">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chihabhajji&layout=compact&hide_border=true&show_icons=true&count_private=true" alt="Chihab hajj's github stats">
-  </a>
-</p>
